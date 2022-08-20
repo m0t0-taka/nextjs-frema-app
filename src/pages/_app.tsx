@@ -29,7 +29,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <meta key="charset" name="charaset" content="utf-8" />
+        <meta key="charset" name="charset" content="utf-8" />
         <meta
           key="viewport"
           name="viewport"
