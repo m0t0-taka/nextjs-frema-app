@@ -8,9 +8,9 @@
     "start": "next start",
     "lint": "next lint --dir src",
     "format": "next lint --fix --dir src",
+    "test": "jest",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
-    "test": "jest"
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "@emotion/react": "^11.10.0",

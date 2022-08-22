@@ -3108,14 +3108,14 @@
   "version" "18.7.8"
 
 "@types/node@^14.0.10 || ^16.0.0":
-  "integrity" "sha512-h6p1A77pHBDdOcI9y6Wfh9iRGa8lMUZMk2ebHJTNTtRwgbQzgemZow6PW7+Xs7Z0r0IQFY1+iRlcNAkRrf53nA=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-16.11.51.tgz"
-  "version" "16.11.51"
+  "integrity" "sha512-GnstYouCa9kbYokBCWEVrszJ1P2rGAQpKrqACHKuixkaT8XGu8nsqHvEUIGqDs5vwtsJ7LrYqnPDKRD1V+M39A=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-16.11.52.tgz"
+  "version" "16.11.52"
 
 "@types/node@^14.14.20 || ^16.0.0":
-  "integrity" "sha512-h6p1A77pHBDdOcI9y6Wfh9iRGa8lMUZMk2ebHJTNTtRwgbQzgemZow6PW7+Xs7Z0r0IQFY1+iRlcNAkRrf53nA=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-16.11.51.tgz"
-  "version" "16.11.51"
+  "integrity" "sha512-GnstYouCa9kbYokBCWEVrszJ1P2rGAQpKrqACHKuixkaT8XGu8nsqHvEUIGqDs5vwtsJ7LrYqnPDKRD1V+M39A=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-16.11.52.tgz"
+  "version" "16.11.52"
 
 "@types/normalize-package-data@^2.4.0":
   "integrity" "sha512-Gj7cI7z+98M282Tqmp2K5EIsoouUEzbBJhQQzDE3jSIRk6r9gsz0oUokqIUR4u1R3dMHo0pDHM7sNOHyhulypw=="
